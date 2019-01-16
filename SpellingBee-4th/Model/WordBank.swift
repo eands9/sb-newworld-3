@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"pampas", sentence:""))
-        list.append(Word(word:"caribou", sentence:""))
-        list.append(Word(word:"toboggan", sentence:""))
-        list.append(Word(word:"persimmon", sentence:""))
-        list.append(Word(word:"quinine", sentence:""))
-        list.append(Word(word:"powwow", sentence:""))
-        list.append(Word(word:"bayou", sentence:""))
-        list.append(Word(word:"coyote", sentence:""))
-        list.append(Word(word:"tamale", sentence:""))
-        list.append(Word(word:"poi", sentence:""))
+        list.append(Word(word:"cashew", sentence:""))
+        list.append(Word(word:"luau", sentence:""))
+        list.append(Word(word:"totem", sentence:""))
+        list.append(Word(word:"mahimahi", sentence:""))
+        list.append(Word(word:"hickory", sentence:""))
+        list.append(Word(word:"cacao", sentence:""))
+        list.append(Word(word:"kona", sentence:""))
+        list.append(Word(word:"malihini", sentence:""))
+        list.append(Word(word:"wikiwiki", sentence:""))
+        list.append(Word(word:"tuckahoe", sentence:""))
     }
 }
